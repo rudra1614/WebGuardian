@@ -3,7 +3,7 @@ A website pentesting tool which scans websites for vulnerabilites and creates a 
 
 HOW TO RUN:
 
-Clone the tool
-cd WebGuardian
-python3 webguardian.py (for various techniques)
-python3 webguardian.py website url (for testing the website)
+1.Clone the tool
+2.cd WebGuardian
+3.python3 webguardian.py (for various techniques)
+4.python3 webguardian.py website url (for testing the website)
